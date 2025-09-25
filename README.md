@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashan Ekanayake</h1>
-<h3 align="center">Coding the complete journey — frontend to backend.</h3>
+<h3 align="center">Coding the complete journey. Frontend to backend.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashan37" alt="ashan37" /></a> </p>
 
